@@ -1,15 +1,6 @@
 # Job Portal Project Setup Guide
 This repository contains a Laravel project. Follow the steps below to set up and run the project on your local machine.
 
-# Prerequisites
-Before you begin, make sure you have the following installed on your system:
-
-PHP (>=8.1.0)
-Composer (>=2.2.0)
-Node.js (with npm or yarn)
-MySQL or any other compatible database system
-
-
 1. *Prerequisites: Before you begin, make sure you have the following installed on your system.*
    - PHP (>=8.1.0)
    - Composer (>=2.2.0)
